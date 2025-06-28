@@ -24,3 +24,36 @@ For a blog page, placing a title at the top, followed by a featured image, and t
 
 4. ⚙️ Functionality
 Definition: Indicates how interactive elements like buttons, forms, sliders, or modals will behave.
+
+🧾 Types of Wireframes
+Wireframes can vary in detail and purpose depending on the stage of the design process. The two main types are:
+
+🔹 Low-Fidelity Wireframes
+Definition:
+Low-fidelity wireframes are basic visual representations. They are often hand-drawn or made with simple shapes and placeholders.
+
+Characteristics:
+
+Focus on layout and structure.
+
+No colors, fonts, or images.
+
+Use placeholder text like "Lorem Ipsum" or boxes labeled “Image.”
+
+When to Use:
+➡️ Early in the design process to brainstorm layout ideas and establish the basic structure of the interface.
+
+Example Use Case:
+Sketching how a homepage will be divided into a header, content area, and footer before deciding on the visual design.
+
+🔸 High-Fidelity Wireframes
+Definition:
+High-fidelity wireframes are more detailed and closer to the final design. They include real content, defined typography, and precise spacing.
+
+Characteristics:
+
+Uses actual text and images.
+
+Mimics final layout and functionality.
+
+Shows interactive elements like dropdowns and buttons.
